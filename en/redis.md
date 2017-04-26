@@ -780,3 +780,27 @@ Given the number of projects and sites using Redis already, there can be no doub
 In a lot of ways, Redis represents a simplification in the way we deal with data. It peels away much of the complexity and abstraction available in other systems. In many cases this makes Redis the wrong choice. In others it can feel like Redis was custom-built for your data.
 
 Ultimately it comes back to something I said at the very start: Redis is easy to learn. There are many new technologies and it can be hard to figure out what's worth investing time into learning. When you consider the real benefits Redis has to offer with its simplicity, I sincerely believe that it's one of the best investments, in terms of learning, that you and your team can make.
+
+# Test Python
+
+	
+<!-- $$
+y = -2.2x + 0.5
+$$ -->
+
+\begin{python}
+def f(x):
+    return x
+\end{python}
+
+<!-- Probleme avec le caractere __ dans le bloc ! -->
+<!-- \begin{python}
+class MyClass(object):
+    def __str__(self):
+    	pass
+\end{python} -->
+
+The special method \pyth{__init__}... 
+
+Listing file '/source/test.py':
+\inputpython{/source/test.py}{0}{1000}

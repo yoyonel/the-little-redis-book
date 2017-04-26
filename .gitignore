@@ -1,3 +1,6 @@
+# log (missfont)
+*.log
+
 # Output books
 
 *.pdf
